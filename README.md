@@ -5,16 +5,16 @@ SecureSense is an Android application developed for a final-year Computer Scienc
 
 ## 🌟 Key Features
 
-- **Real-Time Monitoring**
+- **Real-Time Monitoring**<br/>
 Detects sensitive permission events like microphone, camera, and location access in real time.
 
-- **System-Level Integration**
+- **System-Level Integration**<br/>
 Uses Shizuku and root access to bypass standard Android limitations and access protected logs.
 
-- **Notification Alerts**
+- **Notification Alerts**<br/>
 Alerts users when sensitive permissions are used by applications.
 
-- **Optimized for Android 14**
+- **Optimized for Android 14**<br/>
 Fully tested on Android 14, considering its heightened security restrictions and limited system access.
 
 <br/>
