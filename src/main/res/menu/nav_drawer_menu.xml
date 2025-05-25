@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_monitor"
+        android:title="Monitor"
+        android:icon="@android:drawable/ic_menu_view"/>
+    <item
+        android:id="@+id/nav_apps"
+        android:title="Detectors"
+        android:icon="@android:drawable/ic_menu_manage"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+</menu>
