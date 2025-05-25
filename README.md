@@ -89,6 +89,8 @@ open -a "Android Studio" .
 ## 📝 License
 This project is licensed under the MIT License.
 
+<br/>
+
 ## 🙏 Acknowledgements
 - Shizuku: https://github.com/RikkaApps/Shizuku
 - Android open-source community for logcat and debugging tips.
