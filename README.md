@@ -89,7 +89,7 @@ open -a "Android Studio" .
 <br/>
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE]([url](https://github.com/Icetok/secure-sense/blob/main/LICENSE)) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Icetok/secure-sense/blob/main/LICENSE) file for more details.
 
 <br/>
 
