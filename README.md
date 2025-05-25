@@ -33,8 +33,10 @@ Fully tested on Android 14, considering its heightened security restrictions and
 ### 2️⃣ Installation
 
 1. Clone the repository:
-```git clone https://github.com/YourUsername/SecureSense.git```
-2. Open in Android Studio:
+```
+git clone https://github.com/YourUsername/SecureSense.git
+```
+3. Open in Android Studio:
 ```
 cd SecureSense
 open -a "Android Studio" .
